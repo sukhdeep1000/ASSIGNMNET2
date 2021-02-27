@@ -3,4 +3,8 @@ CREATING A WEB APPLICATION BY IMPLEMENTING ASP.NET CORE<BR>
 STEP 1 :-CREATE A RELATIONAL DATABASE SCHEMA 
 ![image](https://user-images.githubusercontent.com/77745676/109374960-1b5e1200-7887-11eb-8ae6-ae9a746c55c7.png)<BR>
 STEP 2 CONNECT DATABASE
-  ![image](https://user-images.githubusercontent.com/77745676/109375791-61b66f80-788d-11eb-8463-64ce09cb8aba.png)
+  ![image](https://user-images.githubusercontent.com/77745676/109375791-61b66f80-788d-11eb-8463-64ce09cb8aba.png)<BR>
+  PERFORM CREATE, DETAIL, EDIT, DELETE OPERATION
+  ![EDIT DELETE DETAILS CREATE ](https://user-images.githubusercontent.com/77745676/109376773-efe22400-7894-11eb-8b72-fb8a0fd64059.png)<BR>
+![INDEX API EDIT DETAIL DELETE](https://user-images.githubusercontent.com/77745676/109376774-f07aba80-7894-11eb-98ff-3ef9c92b515e.png)<BR>
+
